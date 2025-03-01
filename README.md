@@ -42,10 +42,25 @@
 * 距离多样性
 * ![image](./samples/8.jpg)  
 
+三、样例数据解析 (Usage)
+* python 环境：pyhon3.10 （注意：因为解析样例用了 open3d 渲染，所以建议用 python3.10）
+
+* 安装依赖库
+```bash
+pip install -r requirements.txt
+```
+* 运行
+
+```bash
+cd script
+python read_datas.py
+#运行 可视化图保存在 datas/*_high_render文件夹下
+```
+
 
 ## 联系方式 （Contact）  
 * E-mails: 305141918@qq.com   
-* WeChat:
-* <img src="./samples/zsxq.jpg"  align = "left"  width="230" />
 
-<!-- ![image](./samples/wx.png)   -->
+#### 知识星球:
+
+<img src="./samples/zsxq.jpg"  align = "left"  width="230" />
